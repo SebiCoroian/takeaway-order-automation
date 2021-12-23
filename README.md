@@ -18,4 +18,4 @@ In case you are ordering fron an appartment/office building, you need to navigat
 Here, you'll need to list the previous elements of the FIELDS array (FIELDS[7], FIELDS[6], FIELDS[5], etc.)
 This is done according to the order they are listed on the view, FIELD[0] being the first label.
 
-Eljoy!
+Enjoy!
