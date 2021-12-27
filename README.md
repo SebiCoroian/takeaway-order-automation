@@ -16,6 +16,6 @@ To select the desired product, you need to navigate to `PRODUCT SELECTION` and f
 
 In case you are ordering fron an appartment/office building, you need to navigate to `ADRESS` section
 Here, you'll need to list the previous elements of the FIELDS array (FIELDS[7], FIELDS[6], FIELDS[5], etc.)
-This is done according to the order they are listed on the view, FIELD[0] being the first label.
+This is done according to the order they are listed on the view, FIELDS[0] being the first label.
 
 Enjoy!
