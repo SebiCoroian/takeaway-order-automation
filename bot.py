@@ -19,7 +19,7 @@ print(response.text)
 
 #VARIABLE SET-UP
 #USER CONFIG
-restaurant_url = "https://www.takeaway.com/ro-en/menu/red-wine-bistro?gclid=CjwKCAiAtouOBhA6EiwA2nLKHySbgR5wFXqfHOc3LK6B8J9b-oUaBrbaj6to38gHJF_mimD-SDYtDhoChqwQAvD_BwE&gclsrc=aw.ds&__cf_chl_jschl_tk__
+restaurant_url = ""
 e-mail = requests.request("GET", url, mail_id)
 adress = ""
 name = ""
