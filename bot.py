@@ -20,7 +20,7 @@ print(response.text)
 #VARIABLE SET-UP
 #USER CONFIG
 restaurant_url = ""
-e-mail = requests.request("GET", url, mail_id)
+e-mail = requests.request("GET", url, mail_id).text
 adress = ""
 name = ""
 phone = ""
